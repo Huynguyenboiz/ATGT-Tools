@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "magnetic-planet-324908",
+  "private_key_id": "ce1e35f47a09ffe974ca09bb4bf45780700bfca3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/GXnqh1sMAxLc\nsEHN9J9pmBXDmKRMCaZztnvGKfPfYX293CBDYPKIywvs3AL/GaKitJIqO3GXlwme\nzQfQHbJK7PwA+KZTiONLQ5cWVnlKflOfR2wzh5tcdYkqsXRXLvuNDghUcLQz/n7x\nMHGBueu2LRzJv6RuncEDs2Xmb1y1DtZEe16552Yz86J7WoYz1dEIi9gWTACbX0TH\n3rDy2/rr0aJlQoUNUbPu7sCMk75KApRBVoiue1oxHPh2rMUi0eK4MzvTmyS++CTt\nmpi7UH5dgIz+syYuv7mWi+SlsmJLXJ0lWCJTDDxrbpMDBClUL/3Fq2TmRZ2K6aM+\nFg1DhWh5AgMBAAECggEABaABRHEaXJASQ/rlM6PbIGTTY9fwTXOtmbOEpliG9EDp\nTlzLz1KWeQZ/B0hnnIIw6m37F8alqT250QSTJwyvZOtftJidGWbgB+UJWLqQD0Gz\ngkP8MEfHf9vO1I9Mz8x90jutl5dfWotydEowgSN2R9Jr9Jf78KybPpm51WQFnCey\nr3o7gUF1kTUDZERw6BTTYh10woVJPBVP10Hjzga2ez4b4Qlj5LzJJn0mU23Mk/tn\nJmWmEqOe95/ONGgoC5RasZs4ZYM4S41deS0RfyFFDbiqO+xvbDJpCsaqdmnHvyuC\nRHpuVq0IbyHDsfMaAcCp78XhvptU3F9RhuEJRHRGXQKBgQDrcPUmSaiBtivNK94w\nw0D1fWK2ddvhNT7R8a+yLEnBdz3BylqDFxTAMrtwINgPt/4raYmPA0uTHwn8mTuG\ndw7+HDNJ+4GRHgt43HPZlAwKXRXQwuRsuAeaNFAn//1QtYxgvsT3QifunEr0qSEP\nKAvKPLnWGmokz3F6t4V3fjKexQKBgQDPyU5JlMcSaFDcVv6jd7d8xDv7KABqxVkL\n5z0hk+iU3486QvQBMWPRB4a7q20ejC5Ct3goh+T5DpZt4tuD3iAVFdW4y0oYUfRa\nx4cGFI3CdwbTM7ki0HvGtjKBG3ks1zbhgprNDVNoeN2Bs9ryVfzDPcSUUPCWT0S5\n5oN41Mn+JQKBgBSaWumR0owfS+/1Yck0nO+enE/JOoeXqDqpAq390Cp868uUkJ0e\nHPPAvMRQK3gcqsJTxvTb3fYu5inTovDeZFJ6V0anGqx/S5O0/vJQUUlq4ejV1TVq\nWUf2QfluHlW8vV8N8qCMioAH70s/raPs5jM5Yy3IO/eiq5SIkMZnJbjdAoGAGTsi\njIDKY4vTNc5CgWsKFtZlSiwjUNPB6lYb8DXbqigzZim3I2Xx7vHxBFzelTUEcQmC\nR7mori19Sr6fVTXlw2mxWA0nZCifeV59INniFNkLNR40vut9/DUnkNHbNvyzJ1MK\npReXJzp1+0fxsDeMx9B6TGA/tqDNgZ1iHYwJMxkCgYEAxSlxPt+/g5VbjQrzMP1r\nBl6LXqCeSMkMvfpS+vXISwDjtQI1QlFvs+MREPKfXwesQnfnCL1Xmo35+LKTaR3s\nT2MXqxetxvY9O/44LKklMuxR0qxlbBz0OYNQFV7D2InOMPb8J4VESelH7E56kq5p\nySRZ56liqnI2rrUW5j3ub9s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-drive-access@magnetic-planet-324908.iam.gserviceaccount.com",
+  "client_id": "106222848859083088399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-drive-access%40magnetic-planet-324908.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
